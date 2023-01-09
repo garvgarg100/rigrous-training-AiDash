@@ -1,0 +1,27 @@
+[
+    {
+        "type" : "insert",
+        "values" : [
+            {
+                "column_name" : "srid",
+                "value" : "1"
+            }, 
+            {
+                "column_name" : "auth_name",
+                "value" : "'garv'"
+            }, 
+            {
+                "column_name" : "auth_srid",
+                "value" : "1"
+            }, 
+            {
+                "column_name" : "srtext",
+                "value" : "'happy'"
+            }, 
+            {
+                "column_name" : "proj4text",
+                "value" : "'aidash'"
+            }
+        ]
+    }
+]

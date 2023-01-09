@@ -1,0 +1,25 @@
+{
+    "table_name" : "t1",
+    "columns" : [ 
+        {
+            "column_name" : "srid",
+            "datatype" : "bigint"
+        }, 
+        {
+            "column_name" : "auth_name",
+            "datatype" : "character varying (256)"
+        }, 
+        {
+            "column_name" : "auth_srid",
+            "datatype" : "bigibt"
+        }, 
+        {
+            "column_name" : "srtext",
+            "datatype" : "character varying (2048)"
+        }, 
+        {
+            "column_name" : "proj4text",
+            "datatype" : "character varying (2048)"
+        }
+    ]
+}
